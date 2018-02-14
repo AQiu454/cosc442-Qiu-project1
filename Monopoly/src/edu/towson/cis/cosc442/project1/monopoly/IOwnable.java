@@ -12,4 +12,6 @@ public interface IOwnable {
 
 	Boolean playAction(String msg);
 
+	public abstract void playerMoved(Player player, int playerIndex, GameMaster gameMaster);
+
 }
