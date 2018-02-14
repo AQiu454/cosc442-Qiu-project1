@@ -7,6 +7,10 @@ public class FreeParkingCell extends Cell {
 	}
 
 	public void playAction() {
-		return;
+		playAction(null);
+	}
+
+	public Boolean playAction(String msg) {
+		return null;
 	}
 }

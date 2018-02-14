@@ -10,4 +10,6 @@ public interface IOwnable {
 
 	void playAction();
 
+	Boolean playAction(String msg);
+
 }

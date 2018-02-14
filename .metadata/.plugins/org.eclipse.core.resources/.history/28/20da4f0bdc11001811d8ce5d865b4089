@@ -1,0 +1,18 @@
+package edu.towson.cis.cosc442.project1.monopoly;
+
+public interface IOwnable {
+
+	String getName();
+
+	int getPrice();
+
+	boolean isAvailable();
+
+	/**
+	 * @deprecated Use {@link #playAction(String)} instead
+	 */
+	void playAction();
+
+	boolean playAction(String msg);
+
+}

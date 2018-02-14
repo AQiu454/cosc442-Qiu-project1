@@ -9,6 +9,11 @@ public class CardCell extends Cell {
     }
     
     public void playAction() {
+		playAction(null);
+	}
+
+	public Boolean playAction(String msg) {
+		return null;
     }
     
     public int getType() {

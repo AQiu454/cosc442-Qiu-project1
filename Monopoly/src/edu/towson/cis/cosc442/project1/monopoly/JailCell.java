@@ -8,6 +8,11 @@ public class JailCell extends Cell {
 	}
 	
 	public void playAction() {
+		playAction(null);
+	}
+
+	public Boolean playAction(String msg) {
+		return null;
 		
 	}
 }
