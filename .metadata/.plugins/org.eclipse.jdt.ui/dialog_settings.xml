@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
+	<item value="true" key="Replace"/>
+	<item value="true" key="Annotations"/>
+	<item value="3" key="TypeHierarchyViewPart.orientation"/>
+	<item value="false" key="delegateDeprecation"/>
+	<item value="true" key="Comments"/>
+	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
+	<item value="false" key="InstanceOf"/>
+	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
+	<item value="true" key="delegateUpdating"/>
+	<section name="RefactoringWizard.preview">
+		<item value="600" key="width"/>
+		<item value="400" key="height"/>
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="true" key="renameSetter"/>
+		<item value="true" key="updateTextualMatches"/>
+		<item value="true" key="renameGetter"/>
+	</section>
+	<section name="javadoc">
+		<item value="public" key="access"/>
+		<item value="false" key="noindex"/>
+		<item value="C:\Users\Club President\cosc442-Qiu-project1\Monopoly\javadoc.xml" key="antpath"/>
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="true" key="use"/>
+		<item value="true" key="author"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="false" key="nonavbar"/>
+		<item value="" key="docletpath"/>
+		<item value="" key="javadoc_command_history"/>
+		<item value="1.8" key="source"/>
+		<item value="true" key="version"/>
+		<item value="" key="docletname"/>
+		<item value="true" key="splitindex"/>
+		<item value="true" key="fromStandard"/>
+		<item value="false" key="notree"/>
+		<item value="C:\Users\Club President\cosc442-Qiu-project1\Monopoly\doc" key="destdir"/>
+		<item value="false" key="openinbrowser"/>
+		<section name="projects">
+			<section name="Monopoly">
+				<item value="C:\Users\Club President\cosc442-Qiu-project1\Monopoly\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Club President\cosc442-Qiu-project1\Monopoly\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="RemoteSystemsTempFiles">
+				<item value="C:\Users\Club President\cosc442-Qiu-project1\RemoteSystemsTempFiles\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Club President\cosc442-Qiu-project1\RemoteSystemsTempFiles\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+		</section>
+	</section>
+	<section name="ExtractMethodWizard">
+		<item value="false" key="GenerateJavadoc"/>
+		<item value="2" key="AccessModifier"/>
+		<item value="false" key="ThrowRuntimeExceptions"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="false" key="configure_problem_severity_dialog_id"/>
+	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
+	<section name="JavadocWizardDialog">
+		<item value="616" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="567" key="DIALOG_HEIGHT"/>
+		<item value="660" key="DIALOG_X_ORIGIN"/>
+		<item value="150" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="completion_proposal_size">
+	</section>
+	<section name="JavaElementSearchActions">
 	</section>
 </section>
